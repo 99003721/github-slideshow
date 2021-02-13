@@ -11,3 +11,20 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+
+# Cost of the Calculator 
+* our Calculator will sum around 800 Rs , having all neccesary features required for all students 
+* Cost and features mainly focus on most of the important requirments we reasearched for a calculator.
+
+# Features that are integrated in our project calculator are : 
+* Will perform basic Addition,Subtraction,divison,Multiplication with validtaion
+* Also it can perform long division approach with remainder and quotient as a result
+* Addition of Hexa decimal number
+* Calucaltion of GCD
+* Basic Trigonometry operation like Sine,Cos,Tan
+* perofrming the power function i.e calucalting the power of the number
+* Integrated with operation like logrithimic and Antilog calculation
+* Factorial of numbers and Exponential 
+* Mean of the numbers
+* Conversion of numbers
